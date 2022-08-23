@@ -4,7 +4,7 @@
 # Hi, I'm Fabiano! :D
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiano-garciadev/)](www.linkedin.com/in/fabiano-garciadev/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiano-garciadev/)](https://www.linkedin.com/in/fabianogarcia-devjs/)
 
 ### About me
 
